@@ -1,5 +1,5 @@
 
-# Emojis Markdown
+# Emojis
 
 People
 
